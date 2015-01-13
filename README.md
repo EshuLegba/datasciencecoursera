@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Test repo for data science course project
+Test repo for Data Science Data Scientist's Toolbox course project
